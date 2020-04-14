@@ -1,0 +1,33 @@
+{
+  "manifest_version": 2,
+  "name": "Delivery Availability Checker",
+  "version": "1.1.0",
+  "description": "Help you find the Amazon, Costco and Instacart delivery windows",
+  "background": {
+    "scripts": ["js/background.js"],
+    "persistant": false
+  },
+  "content_scripts": [{
+    "matches": [
+      "https://*.amazon.com/gp/buy/shipoptionselect/handlers/*",
+      "https://*.amazon.com/afx/slotselection/*",
+      "https://primenow.amazon.com/checkout/enter-checkout*",
+      "https://primenow.amazon.co.uk/checkout/enter-checkout*",
+      "https://primenow.amazon.it/checkout/enter-checkout*",
+      "https://*.instacart.com/*",
+      "https://*.costco.com/*"
+    ],
+    "js": ["js/content.js"],
+    "run_at": "document_end"
+  }],
+  "permissions": ["notifications", "tabs", "storage"],
+  "icons": {
+    "16": "img/icon_16.png",
+    "64": "img/icon_64.png",
+    "128": "img/icon_128.png"
+  },
+  "browser_action": {
+    "default_title": "Delivery Availability Checker",
+    "default_popup": "popup.html"
+  }
+}
