@@ -1,6 +1,6 @@
 # Delivery Availability Checker
 
-![logo](media/logo.png)
+![logo](https://xswlme.github.io/img/logo.png)
 
 ### A Chrome Extension that help you find the Amazon Prime Now (US & UK), Smile, Fresh, Whole Foods, Costco (same day) and Instacart delivery windows 
 
@@ -10,12 +10,13 @@
 
 Use chrome web store to install 
 
-[![](http://xswl.me/d/media/ChromeWebStore_BadgeWBorder_v2_206x58.png)](https://chrome.google.com/webstore/detail/delivery-availability-che/aciieodoebcieadfecdgeeooelmflkal)
+[![](https://xswlme.github.io/img/ChromeWebStore_BadgeWBorder_v2_206x58.png)](https://chrome.google.com/webstore/detail/delivery-availability-che/aciieodoebcieadfecdgeeooelmflkal)
 
+## #  How to use
 
-## # Usage
+https://xswlme.github.io/101/
 
-Add your items from Amazon, Costco (same day) or Instacart , then **go to checkout and leave the shipping schedule page in the chrome tab**. You can switch to other tabs, the monitor is still running in the background.
+TLDR; Add your items from Amazon, Costco (same day) or Instacart , then **go to checkout and leave the shipping schedule page in the chrome tab**. You can switch to other tabs, the monitor is still running in the background.
 
 ## # Version History
 
