@@ -6,8 +6,6 @@
 
 ### **Stay Home Stay Safe**
 
-![](https://xswlme.github.io/img/banner.jpg)
-
 ## # Install
 
 Use chrome web store to install 
@@ -19,6 +17,10 @@ Use chrome web store to install
 https://xswlme.github.io/101/
 
 TLDR; Add your items from Amazon, Costco (same day) or Instacart , then **go to checkout and leave the shipping schedule page in the chrome tab**. You can switch to other tabs, the monitor is still running in the background.
+
+
+![](https://xswlme.github.io/img/banner.jpg)
+
 
 ## # Version History
 
