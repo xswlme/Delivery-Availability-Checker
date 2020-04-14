@@ -6,6 +6,8 @@
 
 ### **Stay Home Stay Safe**
 
+![](https://xswlme.github.io/img/banner.jpg)
+
 ## # Install
 
 Use chrome web store to install 
@@ -20,12 +22,12 @@ TLDR; Add your items from Amazon, Costco (same day) or Instacart , then **go to 
 
 ## # Version History
 
-04/13/2020 -> 1.1.0 Fix issues and add tutorial
-04/12/2020 -> 1.0.0 Support Amazon Smile and Add Control Panel 
-04/09/2020 -> 0.0.7 Support Amazon Prime Now (UK) - Thanks @Ben 
-04/07/2020 -> 0.0.6 Support Amazon Prime Now (US) - Thanks @Igor
-04/04/2020 -> 0.0.5 Support Costco, Instacart
-03/26/2020 -> 0.0.1 Init project because clorox wipes sold out
+* 04/13/2020 -> 1.1.0 Fix issues and add tutorial
+* 04/12/2020 -> 1.0.0 Support Amazon Smile and Add Control Panel 
+* 04/09/2020 -> 0.0.7 Support Amazon Prime Now (UK) - Thanks @Ben 
+* 04/07/2020 -> 0.0.6 Support Amazon Prime Now (US) - Thanks @Igor
+* 04/04/2020 -> 0.0.5 Support Costco, Instacart
+* 03/26/2020 -> 0.0.1 Init project because clorox wipes sold out
 
 ## # Support website
 *  [Amazon Smile](https://smile.amazon.com/)
