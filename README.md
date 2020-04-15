@@ -2,7 +2,7 @@
 
 ![logo](https://xswlme.github.io/img/logo.png)
 
-### A Chrome Extension that help you find the Amazon Prime Now (US & UK), Smile, Fresh, Whole Foods, Costco (same day) and Instacart delivery windows 
+### A Chrome Extension that help you find the Amazon Prime Now (US, UK, Italy), Smile, Fresh, Whole Foods, Costco (same day) and Instacart delivery windows 
 
 ### **Stay Home Stay Safe**
 
@@ -24,7 +24,7 @@ TLDR; Add your items from Amazon, Costco (same day) or Instacart , then **go to 
 
 ## # Version History
 
-* 04/13/2020 -> 1.1.0 Fix issues and add tutorial
+* 04/13/2020 -> 1.1.0 Fix issues, add tutorial and support Amazon Prime Now (Italy) -  Thanks @Marco
 * 04/12/2020 -> 1.0.0 Support Amazon Smile and Add Control Panel 
 * 04/09/2020 -> 0.0.7 Support Amazon Prime Now (UK) - Thanks @Ben 
 * 04/07/2020 -> 0.0.6 Support Amazon Prime Now (US) - Thanks @Igor
@@ -35,6 +35,7 @@ TLDR; Add your items from Amazon, Costco (same day) or Instacart , then **go to 
 *  [Amazon Smile](https://smile.amazon.com/)
 *  [Amazon Prime Now (US)](https://primenow.amazon.com/)
 *  [Amazon Prime Now (UK)](https://primenow.amazon.co.uk/)
+*  [Amazon Prime Now (Italy)](https://primenow.amazon.it/)
 *  [Amazon Fresh](http://fresh.amazon.com/)
 *  [Whole Foods](https://www.amazon.com/alm/storefront?almBrandId=VUZHIFdob2xlIEZvb2Rz&ref_=nav_cs_whole_foods_in_region)
 *  [Costco (Same day delivery) ](https://sameday.costco.com/store/costco/storefront)
